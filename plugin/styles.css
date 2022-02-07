@@ -1,0 +1,7 @@
+#DashboardCard_Container > div > div > div:nth-child(1) > div > div.ic-DashboardCard__header_image {
+	background-image: url("https://i.imgur.com/RTkJOqS.png");
+}
+
+.ic-Dashboard-header__title {
+	color: #fff;
+}
